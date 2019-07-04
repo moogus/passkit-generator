@@ -17,15 +17,15 @@
 		"Pass"
 	],
 	"dependencies": {
+		"@hapi/joi": "^15.1.0",
 		"archiver": "^3.0.0",
 		"debug": "^3.2.6",
 		"got": "^9.6.0",
-		"joi": "^13.7.0",
 		"moment": "^2.24.0",
 		"node-forge": "^0.7.6"
 	},
 	"engines": {
-		"node": ">=8.1.0"
+		"node": ">=11.0.0"
 	},
 	"devDependencies": {
 		"jasmine": "^3.4.0"
